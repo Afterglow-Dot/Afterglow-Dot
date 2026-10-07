@@ -2,7 +2,7 @@
 
 > “保持好奇，保持热爱，在学习的夹缝中寻找光。”
 
-![访客统计](![访客统计](https://komarev.com/ghpvc/?username=Afterglow-Dot&color=blue&style=flat-square)) ![状态](https://img.shields.io/badge/Status-读研中-success?style=flat-square)
+![访客统计]((https://komarev.com/ghpvc/?username=Afterglow-Dot&color=blue&style=flat-square)) ![状态](https://img.shields.io/badge/Status-读研中-success?style=flat-square)
 
 ## 🌐 我的小站与项目
 * [Afterglow-Dot.github.io](https://github.com/Afterglow-Dot/Afterglow-Dot.github.io)：个人学术主页 / 博客小站。
