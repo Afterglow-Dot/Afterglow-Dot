@@ -6,7 +6,8 @@
 
 ## 🌐 我的小站与项目
 * **[个人主页](https://afterglow-dot.github.io/)**：我的学术主页 / 博客小站（[源码仓库](https://github.com/Afterglow-Dot/Afterglow-Dot.github.io)）。
-* **[3D 实验室](https://afterglow-dot.github.io/3D/about/)**：3D 可视化练习和探索（[源码仓库](https://github.com/Afterglow-Dot/3D)）。
+* **[3D 实验室](https://afterglow-dot.github.io/3D/)**：3D 可视化练习和探索（[源码仓库](https://github.com/Afterglow-Dot/3D)）。
+* **[Hydejack](https://afterglow-dot.github.io/Hydejack/)**：基于 Hydejack 的主题实践（[源码仓库](https://github.com/Afterglow-Dot/Hydejack)）。
 
 ## 📊 我的 GitHub 足迹
 ![Afterglow-Dot的GitHub数据](https://github-readme-stats.vercel.app/api?username=Afterglow-Dot&show_icons=true&theme=default&include_all_commits=true)
@@ -14,4 +15,4 @@
 
 ## 📫 联系我
 * **GitHub**: [@Afterglow-Dot](https://github.com/Afterglow-Dot)
-* **Email**: [@mail](mailto:2026170686@mail.hfut.edu.cn)
+* **Email**: [@Email](mailto:2026170686@mail.hfut.edu.cn)
