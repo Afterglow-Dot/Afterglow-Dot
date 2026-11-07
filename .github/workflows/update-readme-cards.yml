@@ -28,7 +28,11 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
+<<<<<<< HEAD
           options: "username=${{ github.repository_owner }}&langs_count=8&card_width=380"
+=======
+          options: "username=${{ github.repository_owner }}&langs_count=6&card_width=380"
+>>>>>>> 3c563d266f62f7a09adb6a5d1358d8d97ba4419c
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
