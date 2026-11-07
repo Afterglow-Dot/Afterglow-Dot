@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats # 提交 / star / PR 的综合概览
-          options: "username=${{ github.repository_owner }}&show_icons=true"
+          options: "username=${{ github.repository_owner }}&show_icons=true&card_width=380"
           path: profile/stats.svg 
           token: ${{ secrets.GITHUB_TOKEN }} 
           fail_on_error: "true" # 默认 false 会静默写入一张报错卡片
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6"
+          options: "username=${{ github.repository_owner }}&langs_count=6&card_width=380"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
@@ -44,5 +44,5 @@ jobs:
             echo "cards unchanged, skip commit"
             exit 0
           fi
-          git commit -m "chore: Update README cards"
+          git commit -m "chore：Update README cards"
           git push 
