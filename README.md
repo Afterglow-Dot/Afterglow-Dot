@@ -10,8 +10,12 @@
 * **[Hydejack](https://afterglow-dot.github.io/Hydejack/)**：基于 Hydejack 的主题实践（[源码仓库](https://github.com/Afterglow-Dot/Hydejack)）。
 
 ## 📊 我的 GitHub 足迹
-![Afterglow-Dot的GitHub数据](https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg)
-![常用语言](https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg)
+<table>
+  <tr>
+    <td valign="top"><img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg" alt="Afterglow-Dot的GitHub数据" height="195"></td>
+    <td valign="top"><img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg" alt="常用语言" height="195"></td>
+  </tr>
+</table>
 
 ## 📫 联系我
 * **GitHub**: [@Afterglow-Dot](https://github.com/Afterglow-Dot)
