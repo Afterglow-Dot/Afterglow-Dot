@@ -10,8 +10,29 @@
 * **[Hydejack](https://afterglow-dot.github.io/Hydejack/)**：基于 Hydejack 的主题实践（[源码仓库](https://github.com/Afterglow-Dot/Hydejack)）。
 
 ## 📊 我的 GitHub 足迹
-![Afterglow-Dot的GitHub数据](https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg)
-![常用语言](https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg" alt="Afterglow-Dot的GitHub数据" height="165" />
+    </td>
+    <td valign="top" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg" alt="常用语言" height="165" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afterglow-Dot/Afterglow-Dot/main/profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afterglow-Dot/Afterglow-Dot/main/profile/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Afterglow-Dot/Afterglow-Dot/main/profile/github-snake.svg" />
+  </picture>
+</p>
 
 ## 📫 联系我
 * **GitHub**: [@Afterglow-Dot](https://github.com/Afterglow-Dot)
