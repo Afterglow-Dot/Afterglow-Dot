@@ -12,18 +12,8 @@
 ## 📊 我的 GitHub 足迹
 
 <div align="center">
-
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg" alt="Afterglow-Dot的GitHub数据" height="165" />
-    </td>
-    <td valign="top" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg" alt="常用语言" height="165" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg" alt="Afterglow-Dot的GitHub数据" height="180" />
+  <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg" alt="常用语言" height="180" />
 </div>
 
 <p align="center">
