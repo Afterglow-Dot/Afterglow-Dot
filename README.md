@@ -4,7 +4,7 @@
 
 **保持好奇，保持热爱，在学习的夹缝中寻找光。**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=720&height=100&lines=M.S.+Student+%40+HFUT;Keep+curious%2C+keep+burning;Building+Afterglow-Dot.github.io)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=400&color=7C3AED&center=true&vCenter=true&multiline=true&width=720&height=100&lines=M.S.+Student+%40+HFUT;Keep+curious%2C+keep+burning;Building+Afterglow-Dot.github.io)](https://git.io/typing-svg)
 
 ![访客统计](https://komarev.com/ghpvc/?username=Afterglow-Dot&color=blue&style=flat-square) ![状态](https://img.shields.io/badge/Status-读研中-success?style=flat-square)
 
