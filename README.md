@@ -1,10 +1,27 @@
-# Afterglow-Dot 的小站
+<div align="center">
 
-> “保持好奇，保持热爱，在学习的夹缝中寻找光。”
+# 👋 Hi, I'm Afterglow
+
+**保持好奇，保持热爱，在学习的夹缝中寻找光。**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&multiline=true&width=720&height=100&lines=M.S.+Student+%40+HFUT;Keep+curious%2C+keep+burning;Building+Afterglow-Dot.github.io)](https://git.io/typing-svg)
 
 ![访客统计](https://komarev.com/ghpvc/?username=Afterglow-Dot&color=blue&style=flat-square) ![状态](https://img.shields.io/badge/Status-读研中-success?style=flat-square)
 
+</div>
+
+## 🌱 关于我
+
+- 🎓 **硕士研究生**（在读）
+- 🔬 日常用 **Python / MATLAB** 做实验和数据分析
+- 🌐 维护个人主页 / 博客，自建 GitHub Actions 自动更新统计卡
+
+## 🛠️ 我的技术栈
+
+![My Skills](https://skillicons.dev/icons?i=c,python,matlab,vscode,git,github,linux)
+
 ## 🌐 我的小站与项目
+
 * **[个人主页](https://afterglow-dot.github.io/)**：我的学术主页 / 博客小站（[源码仓库](https://github.com/Afterglow-Dot/Afterglow-Dot.github.io)）。
 * **[3D 实验室](https://afterglow-dot.github.io/3D/)**：3D 可视化练习和探索（[源码仓库](https://github.com/Afterglow-Dot/3D)）。
 * **[Hydejack](https://afterglow-dot.github.io/Hydejack/)**：基于 Hydejack 的主题实践（[源码仓库](https://github.com/Afterglow-Dot/Hydejack)）。
@@ -25,5 +42,6 @@
 </p>
 
 ## 📫 联系我
+
 * **GitHub**: [@Afterglow-Dot](https://github.com/Afterglow-Dot)
 * **Email**: [@Email](mailto:2026170686@mail.hfut.edu.cn)
