@@ -2,35 +2,37 @@
 
 # 👋 Hi, I'm Afterglow
 
-**保持好奇，保持热爱，在学习的夹缝中寻找光。**
+English | [简体中文](README.zh-CN.md)
+
+**Stay curious, stay passionate — find light in the cracks of study.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=400&color=7C3AED&center=true&vCenter=true&multiline=true&width=720&height=100&lines=M.S.+Student+%40+HFUT;Keep+curious%2C+keep+burning;Building+Afterglow-Dot.github.io)](https://git.io/typing-svg)
 
-![访客统计](https://komarev.com/ghpvc/?username=Afterglow-Dot&color=blue&style=flat-square) ![状态](https://img.shields.io/badge/Status-读研中-success?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Afterglow-Dot&color=blue&style=flat-square) ![Status](https://img.shields.io/badge/Status-M.S._Student-success?style=flat-square)
 
 </div>
 
-## 🙋 关于我
+## 🙋 About Me
 
-- 🎓 **硕士研究生**（在读）
-- 🔬 日常用 **Python / MATLAB** 做实验和数据分析
-- 🌐 维护个人主页 / 博客，自建 GitHub Actions 自动更新统计卡
+- 🎓 **M.S. student** (currently enrolled)
+- 🔬 Use **Python / MATLAB** for experiments and data analysis
+- 🌐 Maintain a personal homepage / blog, with a self-hosted GitHub Actions setup that auto-updates the stats cards
 
-## 🛠️ 我的技术栈
+## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=c,python,matlab,vscode,git,github,linux)
 
-## 🌐 我的小站与项目
+## 🌐 My Sites & Projects
 
-* **[个人主页](https://afterglow-dot.github.io/)**：我的学术主页 / 博客小站（[源码仓库](https://github.com/Afterglow-Dot/Afterglow-Dot.github.io)）。
-* **[3D 实验室](https://afterglow-dot.github.io/3D/)**：3D 可视化练习和探索（[源码仓库](https://github.com/Afterglow-Dot/3D)）。
-* **[Hydejack](https://afterglow-dot.github.io/Hydejack/)**：基于 Hydejack 的主题实践（[源码仓库](https://github.com/Afterglow-Dot/Hydejack)）。
+* **[Personal Homepage](https://afterglow-dot.github.io/)** — my academic homepage / blog ([source](https://github.com/Afterglow-Dot/Afterglow-Dot.github.io)).
+* **[3D Lab](https://afterglow-dot.github.io/3D/)** — 3D visualization practice and experiments ([source](https://github.com/Afterglow-Dot/3D)).
+* **[Hydejack](https://afterglow-dot.github.io/Hydejack/)** — theme practice built on Hydejack ([source](https://github.com/Afterglow-Dot/Hydejack)).
 
-## 📊 我的 GitHub 足迹
+## 📊 GitHub Footprint
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg" alt="Afterglow-Dot的GitHub数据" height="180" />
-  <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg" alt="常用语言" height="180" />
+  <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/stats.svg" alt="Afterglow-Dot's GitHub stats" height="180" />
+  <img src="https://cdn.jsdelivr.net/gh/Afterglow-Dot/Afterglow-Dot@main/profile/top-langs.svg" alt="Most used languages" height="180" />
 </div>
 
 <p align="center">
@@ -41,7 +43,7 @@
   </picture>
 </p>
 
-## 📫 联系我
+## 📫 Contact
 
 * **GitHub**: [@Afterglow-Dot](https://github.com/Afterglow-Dot)
 * **Email**: [@Email](mailto:2026170686@mail.hfut.edu.cn)
