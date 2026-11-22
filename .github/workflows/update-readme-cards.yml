@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats # 提交 / star / PR 的综合概览
-          options: "username=${{ github.repository_owner }}&show_icons=true&cache_seconds=1440"
+          options: "username=${{ github.repository_owner }}&show_icons=true&line_height=24&cache_seconds=1440"
           path: profile/stats.svg 
           token: ${{ secrets.GITHUB_TOKEN }} 
           fail_on_error: "true" # 默认 false 会静默写入一张报错卡片
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&cache_seconds=1440"
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&cache_seconds=1440"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
@@ -39,7 +39,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             profile/github-snake.svg
-            profile/github-snake-dark.svg?palette=github-dark
 
       - name: Commit cards
         run: |
